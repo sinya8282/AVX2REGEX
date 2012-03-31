@@ -1,4 +1,4 @@
-This is syntactic-monoid based matching demo program (use AVX2).
+This is syntactic-monoid based matching demo program (using AVX2).
 (to see more details [japanese] -> http://www.slideshare.net/sinya8282/avx2)
 
 * compile (require YASM [>= 1.2.0] https://github.com/yasm/yasm)
