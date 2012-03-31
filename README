@@ -1,0 +1,6 @@
+This is syntactic-monoid based matching demo program (use AVX2).
+
+* compile (need YASM [>= 1.2.0] https://github.com/yasm/yasm)
+% make
+* execute  (need Intel Software Development Emulator http://software.intel.com/en-us/articles/intel-software-development-emulator)
+% make exec
