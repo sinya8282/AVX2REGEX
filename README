@@ -1,5 +1,5 @@
 This is syntactic-monoid based matching demo program (use AVX2).
-(detail [in japanese] -> http://www.slideshare.net/sinya8282/avx2)
+(to see more details [japanese] -> http://www.slideshare.net/sinya8282/avx2)
 
 * compile (require YASM [>= 1.2.0] https://github.com/yasm/yasm)
 % make
